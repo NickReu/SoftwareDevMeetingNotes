@@ -1,0 +1,10 @@
+Meeting 3 notes
+
+We chose specific architecture. We'll deploy on Heroku App, use NodeJS for the
+middle layer, and PostgreSQL for the database. We'll use python for the machine
+learning and training our algorithm.
+
+We reported and presented progress for the week, and discussed challenges of different meme formats
+and website requirements.
+
+We worked on Milestone 2.
