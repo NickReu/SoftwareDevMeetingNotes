@@ -1,0 +1,4 @@
+Meeting 4 Notes
+
+We only met very briefly this week. We discussed Milestone 3 and
+our database design, as well as building the database on Heroku.
