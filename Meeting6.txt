@@ -1,0 +1,6 @@
+Notes for Meeting 6
+
+We reported progress, including starting to learn NN tools, working on the
+static website, and figuring out how to build a log-in system.
+
+We updated our project manager tool, and figured out what we can do and what we can't yet.
