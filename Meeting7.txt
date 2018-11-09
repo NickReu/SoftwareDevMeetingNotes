@@ -1,0 +1,3 @@
+Meeting 7 Notes
+We worked on Milestone 4 and talked about potential issues with
+our neural network. We also talked about the final architecture.
