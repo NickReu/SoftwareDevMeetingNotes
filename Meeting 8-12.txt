@@ -1,0 +1,1 @@
+Meeting 5 through 8 included work on the app. We got the login stuff and encryption working and figured out a plan for the generate button.
